@@ -119,7 +119,7 @@ echo -e "\e[93mPasso \e[33m2/5\e[0m"
 read -p "Digite a porta da api (padrão: 8080): " porta
 echo ""
 echo -e "\e[93mPasso \e[33m3/5\e[0m"
-read -p "Digite o nome da sua empresa (ex: OrionDesign): " client
+read -p "Digite o nome da sua empresa (ex: suaStartup): " client
 echo ""
 echo -e "\e[93mPasso \e[33m4/5\e[0m"
 #echo "crie sua ApiKey no link: https://codebeautify.org/generate-random-hexadecimal-numbers"
@@ -484,20 +484,7 @@ echo -e "\e[32m\e[0m"
 echo -e "${amarelo}Manager${reset}: ${branco}https://$dominio/manager${reset}"
 echo -e "\e[32m\e[0m"
 echo -e "${amarelo}Docs${reset}: ${branco}https://$dominio/docs${reset}"
-echo -e "\e[32m\e[0m"
-echo -e "${amarelo}Inscreva-se no meu Canal${reset}: ${branco}https://youtube.com/oriondesign_oficial${reset}"
-echo -e "\e[32m\e[0m"
-echo -e "${amarelo}Sugestões ou duvidas${reset}: ${branco}https://wa.me/+5511973052593${reset}"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
+
 
 #
 # FIM DE MENSAGEM DE INSTLADO + DADOS

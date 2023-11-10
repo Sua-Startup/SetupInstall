@@ -116,13 +116,13 @@ echo -e "\e[93mPasso \e[33m1/7\e[0m"
 read -p "Digite o dominio para acessar o Chatwoot (ex: app.dominio.com): " dominiochat
 echo ""
 echo -e "\e[93mPasso \e[33m2/7\e[0m"
-read -p "Digite o nome da sua empresa (ex: OrionDesign): " empresachatwoot
+read -p "Digite o nome da sua empresa (ex: suaStartup): " empresachatwoot
 echo ""
 echo -e "\e[93mPasso \e[33m3/7\e[0m"
 read -p "Digite seu email de admin (ex: contato@dominio.com): " emailchat
 echo ""
 echo -e "\e[93mPasso \e[33m4/7\e[0m"
-read -p "Digite o Dominio do seu SMTP (ex: oriondesign.art.br | ex: gmail.com): " dominiosmtpchatwoot
+read -p "Digite o Dominio do seu SMTP (ex: suastartup.com | ex: gmail.com): " dominiosmtpchatwoot
 echo ""
 echo -e "\e[93mPasso \e[33m5/7\e[0m"
 read -p "Digite o Host SMTP (ex: smtp.hostinger.com): " smtpchatwoot
@@ -358,24 +358,7 @@ echo -e "\e[32m\e[0m"
 echo -e "${amarelo}Acesse seu Chatwoot${reset}: ${branco}https://$dominiochat${reset}"
 echo -e "\e[32m\e[0m"
 echo -e "${amarelo}Senha postgres${reset}: ${branco}https://$postgres_password${reset}"
-echo -e "\e[32m\e[0m"
-echo -e "${amarelo}Inscreva-se no meu Canal${reset}: ${branco}https://youtube.com/oriondesign_oficial${reset}"
-echo -e "\e[32m\e[0m"
-echo -e "${amarelo}Sugestões ou duvidas${reset}: ${branco}https://wa.me/+5511973052593${reset}"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
+
 
 #
 # FIM DE MENSAGEM DE INSTLADO + DADOS

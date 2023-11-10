@@ -47,17 +47,7 @@ loading1() {
 
 clear
 
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m ______             _____          _                _____                 _               \e[0m"
-echo -e "\e[32m(____  \           / ___ \        (_)              (____ \               (_)              \e[0m"
-echo -e "\e[32m ____)  ) _   _   | |   | |  ____  _   ___   ____   _   \ \   ____   ___  _   ____  ____  \e[0m"
-echo -e "\e[32m|  __  ( | | | |  | |   | | / ___)| | / _ \ |  _ \ | |   | | / _  ) /___)| | / _  ||  _ \ \e[0m"
-echo -e "\e[32m| |__)  )| |_| |  | |___| || |    | || |_| || | | || |__/ / ( (/ / |___ || |( ( | || | | |\e[0m"
-echo -e "\e[32m|______/  \__  |   \_____/ |_|    |_| \___/ |_| |_||_____/   \____)(___/ |_| \_|| ||_| |_|\e[0m"
-echo -e "\e[32m         (____/                                                             (_____|       \e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
+
 
 loading 2 $width
 
@@ -543,17 +533,7 @@ echo -e "\e[32m| ||  _ \  /___)(_   _)(____ || | (____ | / _  | / _ \ \e[0m"
 echo -e "\e[32m| || | | ||___ |  | |_ / ___ || | / ___ |( (_| || |_| |\e[0m"
 echo -e "\e[32m|_||_| |_|(___/    \__)\_____| \_)\_____| \____| \___/ \e[0m"
 echo -e "\e[32m                                                       \e[0m"              
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32mAcesse o Builder através do link: https://$builder\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32mInscreva-se no meu Canal: https://youtube.com/oriondesign_oficial\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32mSugestões ou duvidas: https://wa.me/+5511973052593\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
+
 
 #
 # FIM DE MENSAGEM DE INSTLADO + DADOS

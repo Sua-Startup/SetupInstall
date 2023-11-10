@@ -47,17 +47,7 @@ loading1() {
 
 clear
 
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m ______             _____          _                _____                 _               \e[0m"
-echo -e "\e[32m(____  \           / ___ \        (_)              (____ \               (_)              \e[0m"
-echo -e "\e[32m ____)  ) _   _   | |   | |  ____  _   ___   ____   _   \ \   ____   ___  _   ____  ____  \e[0m"
-echo -e "\e[32m|  __  ( | | | |  | |   | | / ___)| | / _ \ |  _ \ | |   | | / _  ) /___)| | / _  ||  _ \ \e[0m"
-echo -e "\e[32m| |__)  )| |_| |  | |___| || |    | || |_| || | | || |__/ / ( (/ / |___ || |( ( | || | | |\e[0m"
-echo -e "\e[32m|______/  \__  |   \_____/ |_|    |_| \___/ |_| |_||_____/   \____)(___/ |_| \_|| ||_| |_|\e[0m"
-echo -e "\e[32m         (____/                                                             (_____|       \e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
+
 
 loading 2 $width
 
@@ -71,26 +61,7 @@ loading 2 $width
 
 clear
 
-echo -e "\e[97m\e[0m"
-echo -e "\e[97m\e[0m"
-echo -e "\e[97m\e[0m"
-echo -e "\e[97m _______                         ______                              \e[0m"
-echo -e "\e[97m(_______)          _            (_____ \                             \e[0m"
-echo -e "\e[97m _______  _   _  _| |_   ___     _____) )  ____   ___   _   _  _   _ \e[0m"
-echo -e "\e[97m|  ___  || | | |(_   _) / _ \   |  ____/  / ___) / _ \ ( \ / )| | | |\e[0m"
-echo -e "\e[97m| |   | || |_| |  | |_ | |_| |  | |      | |    | |_| | ) X ( | |_| |\e[0m"
-echo -e "\e[97m|_|   |_||____/    \__) \___/   |_|      |_|     \___/ (_/ \_) \__  |\e[0m"
-echo -e "\e[97m                                                              (____/ \e[0m"
-echo -e "\e[97m  ___       ______   ______  _  \e[0m"
-echo -e "\e[97m / _ \     / _____) / _____)| | \e[0m"
-echo -e "\e[97m( (_) )   ( (____  ( (____  | | \e[0m"
-echo -e "\e[97m ) _ (     \____ \  \____ \ | | \e[0m"
-echo -e "\e[97m( (/  \    _____) ) _____) )| | \e[0m"
-echo -e "\e[97m \__/\_)  (______/ (______/  \_)\e[0m"
-echo -e "\e[97m                                \e[0m"
-echo -e "\e[97m\e[0m"
-echo -e "\e[97m\e[0m"
-echo -e "\e[97m\e[0m"
+
 
 #
 # FIM DE NOME DO PROGRAMA
@@ -275,17 +246,7 @@ echo -e "\e[32m|  ___)  | ||  _ \ (____ || | | |(___  )(____ | / _  | / _ \ \e[0
 echo -e "\e[32m| |      | || | | |/ ___ || | | | / __/ / ___ |( (_| || |_| |\e[0m"
 echo -e "\e[32m|_|      |_||_| |_|\_____| \_)|_|(_____)\_____| \____| \___/ \e[0m"
 echo -e "\e[32m                                                             \e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32mAcesse o Builder através do link: https://$site\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32mInscreva-se no meu Canal: https://youtube.com/oriondesign_oficial\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32mSugestões ou duvidas: https://wa.me/+5511973052593\e[0m"
-echo -e "\e[32m\e[0m"
-echo -e "\e[32m\e[0m"
+
 
 #
 # FIM DE MENSAGEM DE INSTLADO + DADOS
